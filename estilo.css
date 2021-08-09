@@ -1,0 +1,35 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+body{
+
+background-color:rgb(145, 89, 248);
+
+
+}
+table{
+margin: auto;
+margin-top: 250px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+height: 70px;
+width: 400px;
+border-collapse: collapse;
+border: solid 3px black;
+}
+
+table > thead > tr > th{
+
+color: rgb(255, 255, 255);
+border-collapse: collapse;
+border: solid 2px black;
+}
+table > tbody > tr > td{
+
+color: rgb(0, 0, 0);
+text-align: center;
+border-collapse: collapse;
+border: solid 2px black;
+}
